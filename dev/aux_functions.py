@@ -1,4 +1,5 @@
 import itertools
+import pandas as pd
 
 # function to write in file
 def log(w):
