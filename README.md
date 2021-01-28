@@ -3,6 +3,9 @@ TraineeshipErasmus
 
 In this repository you can find the code of the Colexification project implemented with COLT group of University of Barcelona.
 
-The files are in both notebook and simple code format.
-* Notebook files are for a better understanding of the code, having separated cells and more comments
-* .py files are for the running phase
+DATA
+The Data can be downloaded running 00_DataCollection
+
+CODE
+The files are in notebook format, compiled with Google Colab.
+
