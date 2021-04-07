@@ -1,0 +1,201 @@
+Finished cicle number 0
+TIME: 00:01:38.01
+Finished cicle number 1
+TIME: 00:03:12.55
+Finished cicle number 2
+TIME: 00:04:51.32
+Finished cicle number 3
+TIME: 00:06:21.74
+Finished cicle number 4
+TIME: 00:08:08.52
+Finished cicle number 5
+TIME: 00:09:51.12
+Finished cicle number 6
+TIME: 00:11:40.53
+Finished cicle number 7
+TIME: 00:13:05.62
+Finished cicle number 8
+TIME: 00:14:45.01
+Finished cicle number 9
+TIME: 00:16:04.82
+Finished cicle number 10
+TIME: 00:17:51.27
+Finished cicle number 11
+TIME: 00:19:36.18
+Finished cicle number 12
+TIME: 00:21:15.03
+Finished cicle number 13
+TIME: 00:22:40.03
+Finished cicle number 14
+TIME: 00:24:28.73
+Finished cicle number 15
+TIME: 00:26:19.00
+Finished cicle number 16
+TIME: 00:28:04.11
+Finished cicle number 17
+TIME: 00:29:34.10
+Finished cicle number 18
+TIME: 00:31:06.03
+Finished cicle number 19
+TIME: 00:32:52.47
+Finished cicle number 20
+TIME: 00:34:27.66
+Finished cicle number 21
+TIME: 00:35:59.36
+Finished cicle number 22
+TIME: 00:37:39.98
+Finished cicle number 23
+TIME: 00:39:37.11
+Finished cicle number 24
+TIME: 00:41:45.57
+Finished cicle number 25
+TIME: 00:43:38.19
+Finished cicle number 26
+TIME: 00:45:23.82
+Finished cicle number 27
+TIME: 00:47:13.82
+Finished cicle number 28
+TIME: 00:48:58.28
+Finished cicle number 29
+TIME: 00:50:41.03
+Finished cicle number 30
+TIME: 00:52:16.44
+Finished cicle number 31
+TIME: 00:53:46.18
+Finished cicle number 32
+TIME: 00:55:25.01
+Finished cicle number 33
+TIME: 00:57:09.34
+Finished cicle number 34
+TIME: 00:58:43.12
+Finished cicle number 35
+TIME: 01:00:15.56
+Finished cicle number 36
+TIME: 01:02:02.73
+Finished cicle number 37
+TIME: 01:03:51.51
+Finished cicle number 38
+TIME: 01:05:34.49
+Finished cicle number 39
+TIME: 01:07:06.12
+Finished cicle number 40
+TIME: 01:08:58.81
+Finished cicle number 41
+TIME: 01:10:48.61
+Finished cicle number 42
+TIME: 01:12:43.34
+Finished cicle number 43
+TIME: 01:14:14.82
+Finished cicle number 44
+TIME: 01:15:59.00
+Finished cicle number 45
+TIME: 01:17:44.83
+Finished cicle number 46
+TIME: 01:19:34.63
+Finished cicle number 47
+TIME: 01:21:03.61
+Finished cicle number 48
+TIME: 01:22:33.58
+Finished cicle number 49
+TIME: 01:24:22.24
+Finished cicle number 50
+TIME: 01:25:59.92
+Finished cicle number 51
+TIME: 01:27:48.06
+Finished cicle number 52
+TIME: 01:29:13.26
+Finished cicle number 53
+TIME: 01:30:46.50
+Finished cicle number 54
+TIME: 01:32:38.75
+Finished cicle number 55
+TIME: 01:34:29.21
+Finished cicle number 56
+TIME: 01:35:56.86
+Finished cicle number 57
+TIME: 01:37:28.19
+Finished cicle number 58
+TIME: 01:39:16.25
+Finished cicle number 59
+TIME: 01:41:09.28
+Finished cicle number 60
+TIME: 01:42:53.04
+Finished cicle number 61
+TIME: 01:44:42.00
+Finished cicle number 62
+TIME: 01:46:26.85
+Finished cicle number 63
+TIME: 01:47:56.78
+Finished cicle number 64
+TIME: 01:49:43.32
+Finished cicle number 65
+TIME: 01:51:09.17
+Finished cicle number 66
+TIME: 01:52:42.63
+Finished cicle number 67
+TIME: 01:54:41.56
+Finished cicle number 68
+TIME: 01:56:28.70
+Finished cicle number 69
+TIME: 01:58:12.87
+Finished cicle number 70
+TIME: 01:59:45.65
+Finished cicle number 71
+TIME: 02:01:38.66
+Finished cicle number 72
+TIME: 02:03:27.31
+Finished cicle number 73
+TIME: 02:05:17.94
+Finished cicle number 74
+TIME: 02:06:58.55
+Finished cicle number 75
+TIME: 02:08:24.68
+Finished cicle number 76
+TIME: 02:09:51.49
+Finished cicle number 77
+TIME: 02:11:14.04
+Finished cicle number 78
+TIME: 02:13:01.23
+Finished cicle number 79
+TIME: 02:14:28.10
+Finished cicle number 80
+TIME: 02:16:09.02
+Finished cicle number 81
+TIME: 02:18:03.01
+Finished cicle number 82
+TIME: 02:19:48.05
+Finished cicle number 83
+TIME: 02:21:34.87
+Finished cicle number 84
+TIME: 02:23:05.61
+Finished cicle number 85
+TIME: 02:25:00.25
+Finished cicle number 86
+TIME: 02:26:46.72
+Finished cicle number 87
+TIME: 02:28:34.37
+Finished cicle number 88
+TIME: 02:30:10.43
+Finished cicle number 89
+TIME: 02:31:45.45
+Finished cicle number 90
+TIME: 02:33:25.98
+Finished cicle number 91
+TIME: 02:35:17.59
+Finished cicle number 92
+TIME: 02:37:03.45
+Finished cicle number 93
+TIME: 02:38:32.73
+Finished cicle number 94
+TIME: 02:40:15.87
+Finished cicle number 95
+TIME: 02:41:46.16
+Finished cicle number 96
+TIME: 02:43:27.93
+Finished cicle number 97
+TIME: 02:45:13.73
+Finished cicle number 98
+TIME: 02:46:59.33
+Finished cicle number 99
+TIME: 02:48:50.34
+Average time of each cicle: : 00:42:54.75 
