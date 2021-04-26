@@ -23,10 +23,10 @@ date
 set -e
 
 normalize_text() {
-    sed -e "s/í/'/g" -e "s/'/'/g" -e "s/''/ /g" -e "s/'/ ' /g" -e "s/ì/\"/g" -e "s/î/\"/g" \
+    sed -e "s/‚Äô/'/g" -e "s/'/'/g" -e "s/''/ /g" -e "s/'/ ' /g" -e "s/‚Äú/\"/g" -e "s/‚Äù/\"/g" \
         -e 's/"/ " /g' -e 's/\./ \. /g' -e 's/<br \/>/ /g' -e 's/, / , /g' -e 's/(/ ( /g' -e 's/)/ ) /g' -e 's/\!/ \! /g' \
         -e 's/\?/ \? /g' -e 's/\;/ /g' -e 's/\:/ /g' -e 's/-/ - /g' -e 's/=/ /g' -e 's/=/ /g' -e 's/*/ /g' -e 's/|/ /g' \
-        -e 's/´/ /g' | tr 0-9 " "
+        -e 's/¬´/ /g' | tr 0-9 " "
 }
 
 export LANGUAGE=en_US.UTF-8
