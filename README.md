@@ -1,9 +1,9 @@
 # Colexification
-### Traineeship Erasmus
+## Traineeship Erasmus
 
 In this repository you can find the code of the Colexification project implemented with COLT group of University of Barcelona.
 
-**List of files:**
+### List of files:
 
 **Main folder** <br/>
 * 00_DataCollection: writes a CSV with the data from CLICS3 (out df_all_raw.csv) <br/>
@@ -30,9 +30,7 @@ In this repository you can find the code of the Colexification project implement
 
 **DATA**
 
-The Data can be downloaded running 00_DataCollection
-
-In every file there is a link to download the file from Google Drive folder. Change that link (if necessary) with correct one.
+The starting data can be downloaded running 00_DataCollection. For the following files, the data is step by step outputted.
 
 **CODE**
 
