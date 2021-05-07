@@ -16,6 +16,7 @@ In this repository you can find the code of the Colexification project implement
 * 07_LogisticRegression_3ver: 3 versions of application of Logistic Regression on the output of only one cycle of the bootstrap <br/>
 * 07b_gettingCosines_support: the file uses the FastText model to calculate the cosine similarity values. Serves as a support for the file 07 <br/>
 * 08_LogReg_100pretr: apply the Logistic Regression model on every output of the 100 cycles. Uses the pre-trained version of FastText. (out df_logreg_bal.csv, df_logreg_un.csv) <br/>
+* 09_LogReg_models: apply the Logistic Regression model on every output of the 100 cycles with 8 different models. 
 
 **HPC**
 1. get_wikimedia.sh: download Wikipedia dump (out bz2 file)
@@ -24,8 +25,9 @@ In this repository you can find the code of the Colexification project implement
 4. cleaning_wiki.py: cleans the Wikipedia dump obtained by the WikiExtractor function, putting everything lowercase, removing links and punctuation
 5. joining.sh: for every cleaned file in the folder, it appends it to the general corpus file (out corpus_wiki)
 6. training_ft.sh: code to train the FastText model using the outputted corpus
-7. log_reg.sh: calls log_reg_model.py
-8. log_reg_model.py: for every model trained, applies the Logistic Regression model as seen in the notebook file 08 (out df_logreg_bal.csv, df_logreg_un.csv)
+7. trainingFT_models.sh: code to train the FastText model with different window sizes (NB uses a small version of the wikipedia corpus)
+8. log_reg.sh: calls log_reg_model.py
+9. log_reg_model.py: for every model trained, applies the Logistic Regression model as seen in the notebook file 08 (out df_logreg_bal.csv, df_logreg_un.csv)
 
 
 **DATA**
