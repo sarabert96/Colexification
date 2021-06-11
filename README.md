@@ -16,9 +16,9 @@ In this repository you can find the code of the Colexification project implement
 * 07_LogisticRegression_3ver: 3 versions of application of Logistic Regression on the output of only one cycle of the bootstrap <br/>
 * 07b_gettingCosines_support: the file uses the FastText model to calculate the cosine similarity values. Serves as a support for the file 07 <br/>
 * 08_LogReg_100pretr: apply the Logistic Regression model on every output of the 100 cycles. Uses the pre-trained version of FastText. (out df_logreg_bal.csv, df_logreg_un.csv) <br/>
-* 09 : analyze the results of the Logistic Regression of file 08
+* 09_AnalysisLRpT : analyze the results of the Logistic Regression of file 08
 * 10_LogReg_models: apply the Logistic Regression model on every output of the 100 cycles with 8 different models. 
-* 11_ : analyze the results of the Logistic Regression applied using the 8 different models
+* 11_ModelResults : analyze the results of the Logistic Regression applied using the 8 different models
 * HP_FT: inspect the hyper-parameters of the pre-trained version of FastText 
 
 **HPC**
